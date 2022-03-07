@@ -1,4 +1,4 @@
-const mtk = null
+const mtk = 89
 const bahasaIndonesia = 90
 const bahasaInggris = 89
 const ipa =  69
