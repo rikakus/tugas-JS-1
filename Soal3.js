@@ -1,4 +1,4 @@
-const printSegitiga = "enam"
+const printSegitiga = 6
 if(typeof printSegitiga == "number"){
     let string = "";
     for (let i = 0; i < printSegitiga; i++) {
